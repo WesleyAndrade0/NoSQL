@@ -12,10 +12,12 @@ Todas as partes do Projeto estão identificadas em ordem atendendo todas as espe
 # ETAPA 1
 
 ### O documento nomeado como *"localização_google_sp.json"* está descrevendo em notação json as seguintes informações:
+
 ![image](https://github.com/WesleyAndrade0/NoSQL/assets/167809767/0fdef2fe-0b05-4846-8f08-ef756d6bc6a0)
 
 
 *Caso haja algum problema para exibição do arquivo, segue print do JSON:*
+
 ![image](https://github.com/WesleyAndrade0/NoSQL/assets/167809767/c671d11f-c44b-4dc3-88a4-6de3959ca7f7)
 
 
